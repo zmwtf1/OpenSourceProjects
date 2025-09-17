@@ -67,7 +67,7 @@ G2L["TextButton_7"]["BackgroundColor3"] = Color3.fromRGB(57, 57, 57);
 G2L["TextButton_7"]["FontFace"] = Font.new([[rbxasset://fonts/families/Arial.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["TextButton_7"]["BackgroundTransparency"] = 0.3;
 G2L["TextButton_7"]["Size"] = UDim2.new(0.36207, 0, 0.30137, 0);
-G2L["TextButton_7"]["Text"] = [[Set JP and WS]];
+G2L["TextButton_7"]["Text"] = [[Set WS and JP]];
 G2L["TextButton_7"]["Position"] = UDim2.new(0.31034, 0, 0.68493, 0);
 
 
