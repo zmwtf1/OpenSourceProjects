@@ -36,7 +36,7 @@ G2L["Title_4"]["FontFace"] = Font.new([[rbxasset://fonts/families/Arial.json]], 
 G2L["Title_4"]["TextColor3"] = Color3.fromRGB(252, 255, 243);
 G2L["Title_4"]["BackgroundTransparency"] = 1;
 G2L["Title_4"]["Size"] = UDim2.new(0.2069, 0, 0.36986, 0);
-G2L["Title_4"]["Text"] = [[JP and WS Gui]];
+G2L["Title_4"]["Text"] = [[WS and JP Gui]];
 G2L["Title_4"]["Name"] = [[Title]];
 G2L["Title_4"]["Position"] = UDim2.new(0.39655, 0, -0.05479, 0);
 
