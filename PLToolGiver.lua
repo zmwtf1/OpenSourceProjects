@@ -10,6 +10,8 @@ CollectionService:AddTag(G2L["ToolGiverGui_1"], [[main]]);
 G2L["ToolGiverFrame_2"] = Instance.new("Frame", G2L["ToolGiverGui_1"]);
 G2L["ToolGiverFrame_2"]["BorderSizePixel"] = 0;
 G2L["ToolGiverFrame_2"]["BackgroundColor3"] = Color3.fromRGB(55, 55, 55);
+G2L["ToolGiverFrame_2"]["Active"] = true;
+G2L["ToolGiverFrame_2"]["Draggable"] = true;
 G2L["ToolGiverFrame_2"]["Size"] = UDim2.new(0.52852, 0, 0.91228, 0);
 G2L["ToolGiverFrame_2"]["Position"] = UDim2.new(0.24276, 0, 0.01754, 0);
 G2L["ToolGiverFrame_2"]["Name"] = [[ToolGiverFrame]];
