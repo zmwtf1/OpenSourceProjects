@@ -168,7 +168,7 @@ local guns = {
 }
 
 -- Button click
-G2L["GiveGun_b"].MouseButton1Click:Connect(function()
+G2L["GiveGun_b"].Activated:Connect(function()
     local input = G2L["EnterGun_8"].Text:lower():gsub("^%s*(.-)%s*$", "%1")
     if input == "all" then
         for _, g in pairs({"M9","Remington 870","AK-47"}) do
@@ -189,7 +189,7 @@ end)
 
 -- Toggle button
 local open = true
-G2L["ToggleButton_15"].MouseButton1Click:Connect(function()
+G2L["ToggleButton_15"].Activated:Connect(function()
     open = not open
     G2L["ToolGiverFrame_2"].Visible = open
 end)
